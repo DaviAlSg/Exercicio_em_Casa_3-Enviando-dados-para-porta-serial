@@ -1,4 +1,4 @@
-# Exercicio_em_Casa_3-Enviando-dados-para-porta-serial
+# Exercicio em Casa 3 Enviando dados para porta serial
 -
 -
 # Arduino feito no Tinkercad
