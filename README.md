@@ -2,10 +2,12 @@
 -
 -
 # Arduino feito no Tinkercad
-![image](https://github.com/user-attachments/assets/47eae7e9-22ea-42b0-b326-15d0d9faf104)
+![image](https://github.com/user-attachments/assets/2504bd33-9fef-47c8-a0f3-d046ff47abdf)
+
 -
--Conecte um botão entre o pino de 5V e o pino digital D2 do Arduino, com um resistor de 10kΩ ao GND. O ânodo de um LED deve ser ligado ao pino D12, e o cátodo a um resistor de 220Ω, que se conecta ao GND.
-Este circuito permite enviar dados à porta serial do Arduino, utilizando o botão como sinalizador e o LED como indicador visual. Ao pressionar o botão, o Arduino registra a ação e transmite informações pela porta serial.
+-Conecte um botão entre o pino de 5V e o pino digital D2 do Arduino, com um resistor de 10kΩ ao GND.
+Este circuito permite enviar dados à porta serial do Arduino, utilizando o botão como sinalizador. Ao pressionar o botão,
+o Arduino registra a ação e transmite informações pela porta serial.
 -
 # Materiais
 1 Fio de 10 k ohm,
